@@ -1,0 +1,9 @@
+{
+  "include": ["src", "*.ts"],
+  "compilerOptions": {
+    "moduleResolution": "Bundler",
+    "skipLibCheck": true,
+    "module": "esnext",
+    "target": "esnext"
+  }
+}

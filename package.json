@@ -1,0 +1,13 @@
+{
+  "name": "calcite-design-system",
+  "version": "0.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "typescript": "5.4.4",
+    "vite": "5.4.8",
+    "vitest": "2.1.2"
+  }
+}
